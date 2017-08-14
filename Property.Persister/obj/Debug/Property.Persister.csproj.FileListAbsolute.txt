@@ -1,0 +1,7 @@
+d:\users\jayanth\documents\visual studio 2017\Projects\PropertyMatcher\Property.Persister\obj\Debug\Property.Persister.csprojResolveAssemblyReference.cache
+d:\users\jayanth\documents\visual studio 2017\Projects\PropertyMatcher\Property.Persister\bin\Debug\Property.Persister.dll
+d:\users\jayanth\documents\visual studio 2017\Projects\PropertyMatcher\Property.Persister\bin\Debug\Property.Persister.pdb
+d:\users\jayanth\documents\visual studio 2017\Projects\PropertyMatcher\Property.Persister\bin\Debug\Property.DataContracts.dll
+d:\users\jayanth\documents\visual studio 2017\Projects\PropertyMatcher\Property.Persister\bin\Debug\Property.DataContracts.pdb
+d:\users\jayanth\documents\visual studio 2017\Projects\PropertyMatcher\Property.Persister\obj\Debug\Property.Persister.dll
+d:\users\jayanth\documents\visual studio 2017\Projects\PropertyMatcher\Property.Persister\obj\Debug\Property.Persister.pdb

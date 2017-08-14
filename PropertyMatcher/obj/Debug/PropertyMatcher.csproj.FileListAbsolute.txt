@@ -1,0 +1,9 @@
+d:\users\jayanth\documents\visual studio 2017\Projects\PropertyMatcher\PropertyMatcher\bin\Debug\PropertyMatcher.dll
+d:\users\jayanth\documents\visual studio 2017\Projects\PropertyMatcher\PropertyMatcher\bin\Debug\PropertyMatcher.pdb
+d:\users\jayanth\documents\visual studio 2017\Projects\PropertyMatcher\PropertyMatcher\bin\Debug\PropertyMatcher.Utilities.dll
+d:\users\jayanth\documents\visual studio 2017\Projects\PropertyMatcher\PropertyMatcher\bin\Debug\PropertyMatcher.Utilities.pdb
+d:\users\jayanth\documents\visual studio 2017\Projects\PropertyMatcher\PropertyMatcher\obj\Debug\PropertyMatcher.csprojResolveAssemblyReference.cache
+d:\users\jayanth\documents\visual studio 2017\Projects\PropertyMatcher\PropertyMatcher\obj\Debug\PropertyMatcher.dll
+d:\users\jayanth\documents\visual studio 2017\Projects\PropertyMatcher\PropertyMatcher\obj\Debug\PropertyMatcher.pdb
+d:\users\jayanth\documents\visual studio 2017\Projects\PropertyMatcher\PropertyMatcher\bin\Debug\PropertyMatcher.DataContracts.dll
+d:\users\jayanth\documents\visual studio 2017\Projects\PropertyMatcher\PropertyMatcher\bin\Debug\PropertyMatcher.DataContracts.pdb

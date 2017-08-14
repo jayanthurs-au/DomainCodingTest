@@ -1,0 +1,14 @@
+d:\users\jayanth\documents\visual studio 2017\Projects\PropertyMatcher\PropertyMatcher.Console\obj\Debug\PropertyMatcher.Console.csprojResolveAssemblyReference.cache
+d:\users\jayanth\documents\visual studio 2017\Projects\PropertyMatcher\PropertyMatcher.Console\bin\Debug\PropertyMatcher.Console.exe.config
+d:\users\jayanth\documents\visual studio 2017\Projects\PropertyMatcher\PropertyMatcher.Console\bin\Debug\PropertyMatcher.Console.exe
+d:\users\jayanth\documents\visual studio 2017\Projects\PropertyMatcher\PropertyMatcher.Console\bin\Debug\PropertyMatcher.Console.pdb
+d:\users\jayanth\documents\visual studio 2017\Projects\PropertyMatcher\PropertyMatcher.Console\bin\Debug\PropertyMatcher.DataContracts.dll
+d:\users\jayanth\documents\visual studio 2017\Projects\PropertyMatcher\PropertyMatcher.Console\bin\Debug\PropertyMatcher.Persister.dll
+d:\users\jayanth\documents\visual studio 2017\Projects\PropertyMatcher\PropertyMatcher.Console\bin\Debug\PropertyMatcher.DataContracts.pdb
+d:\users\jayanth\documents\visual studio 2017\Projects\PropertyMatcher\PropertyMatcher.Console\bin\Debug\PropertyMatcher.Persister.pdb
+d:\users\jayanth\documents\visual studio 2017\Projects\PropertyMatcher\PropertyMatcher.Console\obj\Debug\PropertyMatcher.Console.exe
+d:\users\jayanth\documents\visual studio 2017\Projects\PropertyMatcher\PropertyMatcher.Console\obj\Debug\PropertyMatcher.Console.pdb
+d:\users\jayanth\documents\visual studio 2017\Projects\PropertyMatcher\PropertyMatcher.Console\bin\Debug\PropertyMatcher.dll
+d:\users\jayanth\documents\visual studio 2017\Projects\PropertyMatcher\PropertyMatcher.Console\bin\Debug\PropertyMatcher.Utilities.dll
+d:\users\jayanth\documents\visual studio 2017\Projects\PropertyMatcher\PropertyMatcher.Console\bin\Debug\PropertyMatcher.pdb
+d:\users\jayanth\documents\visual studio 2017\Projects\PropertyMatcher\PropertyMatcher.Console\bin\Debug\PropertyMatcher.Utilities.pdb

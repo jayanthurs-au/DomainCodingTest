@@ -1,0 +1,5 @@
+d:\users\jayanth\documents\visual studio 2017\Projects\PropertyMatcher\PropertyMatcher.Utilities\bin\Debug\PropertyMatcher.Utilities.dll
+d:\users\jayanth\documents\visual studio 2017\Projects\PropertyMatcher\PropertyMatcher.Utilities\bin\Debug\PropertyMatcher.Utilities.pdb
+d:\users\jayanth\documents\visual studio 2017\Projects\PropertyMatcher\PropertyMatcher.Utilities\obj\Debug\PropertyMatcher.Utilities.dll
+d:\users\jayanth\documents\visual studio 2017\Projects\PropertyMatcher\PropertyMatcher.Utilities\obj\Debug\PropertyMatcher.Utilities.pdb
+d:\users\jayanth\documents\visual studio 2017\Projects\PropertyMatcher\PropertyMatcher.Utilities\obj\Debug\PropertyMatcher.Utilities.csprojResolveAssemblyReference.cache

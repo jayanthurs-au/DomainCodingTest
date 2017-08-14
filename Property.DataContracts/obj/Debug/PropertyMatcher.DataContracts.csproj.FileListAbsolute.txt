@@ -1,0 +1,4 @@
+d:\users\jayanth\documents\visual studio 2017\Projects\PropertyMatcher\Property.DataContracts\bin\Debug\PropertyMatcher.DataContracts.dll
+d:\users\jayanth\documents\visual studio 2017\Projects\PropertyMatcher\Property.DataContracts\bin\Debug\PropertyMatcher.DataContracts.pdb
+d:\users\jayanth\documents\visual studio 2017\Projects\PropertyMatcher\Property.DataContracts\obj\Debug\PropertyMatcher.DataContracts.dll
+d:\users\jayanth\documents\visual studio 2017\Projects\PropertyMatcher\Property.DataContracts\obj\Debug\PropertyMatcher.DataContracts.pdb
